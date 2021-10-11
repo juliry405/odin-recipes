@@ -1,4 +1,11 @@
 h1 {
     text-align: center;
     color: red;
+    border: 1px solid black; 
 }
+
+img{
+    width: 250px;
+    margin: 0 auto;
+}
+
